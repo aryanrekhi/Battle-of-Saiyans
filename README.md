@@ -4,3 +4,4 @@ I created this game in 10 parts gradually from making a white block move in all 
 This game is a little unorthodox from the games that are generally created in pygame. I hope you try it out and enjoy my game
 Aryan Rekhi,
 Developer of Battle of Saiyans: Goku V Vegeta
+![image](https://user-images.githubusercontent.com/72397731/153467326-66b1426a-33bd-4ad5-9122-7f80bafb22ab.png)
