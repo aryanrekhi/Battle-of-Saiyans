@@ -1,3 +1,4 @@
+#Created in Aryan Rekhi
 import pygame
 
 pygame.init()
